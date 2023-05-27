@@ -1,0 +1,28 @@
+{
+  "max-nested-blocks": 2,
+  "max-branches": 4,
+  "max-args": 5,
+  "max-line-length": 80,
+  "allowed-import-modules": [
+    "doctest",
+    "unittest",
+    "python_ta",
+    "typing",
+    "constants"
+  ],
+  "disable": [
+    "R0903",
+    "R0904",
+    "W0105",
+    "C0123",
+    "C0200",
+    "C0327",
+    "C0328",
+    "W0232",
+    "W0231",
+    "R0201",
+    "C0413",
+    "W0611",
+    "R1706"
+  ]
+}
